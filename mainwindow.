@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit"
+https://github.com/AsemahleNonkwelo/Contract-Claim-Monthly-System/new/main
+C:\Users\RC_Student_lab\source\repos\Contract Claim System>
+git remote add origin https://github.com/AsemahleNonkwelo/Contract-Claim-Monthly-System/new/main
+git push -u origin main
